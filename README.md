@@ -19,6 +19,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📁 Featured projects
+- 🚕 [NYC Congestion Pricing & Taxi Speeds](https://github.com/SpecialSon2244/nyc-congestion-pricing-taxi-dashboard) — 110M taxi trips, did the toll speed up Manhattan? (DuckDB, Polars, Streamlit)
 - 🌦️ [Weather-Recommendation-System](https://github.com/SpecialSon2244/Weather-Recommendation-System) — Jupyter notebook analysis and recommendations from weather data
 - 🎬 [Open-Media-Cloud](https://github.com/SpecialSon2244/Open-Media-Cloud) — self-hosted media cloud with Jellyfin, Tailscale and Docker
 - 🌍 [CO₂ vs GDP Decoupling Dashboard](https://github.com/SpecialSon2244/co2-gdp-decoupling-dashboard) — which countries grew their economy while cutting emissions (DuckDB, Polars, Streamlit)
