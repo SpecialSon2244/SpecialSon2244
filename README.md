@@ -19,6 +19,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📁 Featured projects
+- 🛒 [GA4 Ecommerce Funnel, Conversion-Dip RCA & Attribution](https://github.com/SpecialSon2244/ga4-ecommerce-funnel-rca-dashboard) — 4.3M GA4 events: only 25.9% of item viewers add to cart; a late-January revenue drop was a tracking break, with 82% of purchases logged without revenue (Google Merchandise Store sample, DuckDB/SQL window functions, shift-share RCA, attribution, Streamlit/Plotly)
 - 🛍️ [Online Retail: Revenue, Returns & Customer Retention](https://github.com/SpecialSon2244/online-retail-revenue-retention-dashboard) — ~1.07M invoice lines: 42% of new customers repurchase within 3 months; forecast did not consistently outperform seasonal naive (UCI Online Retail II, DuckDB/SQL star schema, cohorts, RFM, Streamlit/Plotly, Power BI)
 - 📦 [Supply Chain: Late Deliveries & Demand Forecast](https://github.com/SpecialSon2244/supply-chain-late-deliveries-forecast) — 57.3% of DataCo order lines ship late; First Class is late every time; weekly demand forecast 2.9% WAPE (DuckDB star schema, SQL, Tableau workbook, Power BI)
 - 👥 [HR Analytics: Attrition, Absence & Time to Hire](https://github.com/SpecialSon2244/hr-analytics-attrition-absence-dashboard) — 1,470 employees: 30.5% of overtime workers left vs 10.4% without (DuckDB star schema, SQL, [Tableau Public](https://public.tableau.com/app/profile/abhiram.ramakrishnan3146/viz/HRAnalyticsAttritionAbsenceTimetoHire/Dashboard1), Power BI)
